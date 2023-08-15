@@ -1,1 +1,1 @@
-# AntiMicrobial-activity-prediction-
+# AntiMicrobial-activity-prediction
